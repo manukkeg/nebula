@@ -1,0 +1,8 @@
+{
+    "app_id": "nebulaapp_2-qakgk",
+    "config_version": 20210101,
+    "name": "nebulaapp_2",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
